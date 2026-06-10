@@ -18,6 +18,8 @@ Prepárate para el examen Certified Kubernetes Application Developer (CKAD) con 
 
 ### 1. [Preparación para CKAD](https://labex.io/es/courses/ckad-prep)
 
+[![Preparación para CKAD](https://course-cover.labex.io/ckad-prep.png?lang=es)](https://labex.io/es/courses/ckad-prep)
+
 Un curso de preparación para CKAD ideal para principiantes, que incluye 42 experimentos guiados de desarrollo de aplicaciones en Kubernetes, organizados desde los fundamentos de kubectl y objetos hasta cargas de trabajo, configuración, despliegue, observabilidad y redes.
 
 [Iniciar Curso](https://labex.io/es/courses/ckad-prep) · Laboratorios: 42
@@ -91,6 +93,8 @@ Un curso de preparación para CKAD ideal para principiantes, que incluye 42 expe
 
 ### 2. [Examen de práctica CKAD 01](https://labex.io/es/courses/ckad-practice-exam-01)
 
+[![Examen de práctica CKAD 01](https://course-cover.labex.io/ckad-practice-exam-01.png?lang=es)](https://labex.io/es/courses/ckad-practice-exam-01)
+
 Un examen de práctica práctico de CKAD con 20 desafíos independientes de desarrollo de aplicaciones en Kubernetes, que abarcan el diseño y la construcción de aplicaciones, despliegue, observabilidad y mantenimiento, configuración y seguridad del entorno, así como servicios y redes.
 
 [Iniciar Curso](https://labex.io/es/courses/ckad-practice-exam-01) · Laboratorios: 20
@@ -141,6 +145,8 @@ Un examen de práctica práctico de CKAD con 20 desafíos independientes de desa
 |        4 | 🎯  Solucionar problemas de acceso al endpoint del servicio  | Principiante | [Iniciar Desafío](https://labex.io/es/labs/troubleshoot-service-endpoint-access-663110?course=ckad-practice-exam-01)    |
 
 ### 3. [Examen de práctica CKAD 02](https://labex.io/es/courses/ckad-practice-exam-02)
+
+[![Examen de práctica CKAD 02](https://course-cover.labex.io/ckad-practice-exam-02.png?lang=es)](https://labex.io/es/courses/ckad-practice-exam-02)
 
 Un segundo examen de práctica independiente al estilo CKAD que incluye 20 desafíos de desarrollo de aplicaciones en Kubernetes, cubriendo los dominios públicos de la certificación CKAD a través de diversos escenarios operativos.
 
