@@ -18,6 +18,8 @@ Bereiten Sie sich mit einem strukturierten, praxisorientierten Lernpfad auf die 
 
 ### 1. [CKAD-Vorbereitung](https://labex.io/de/courses/ckad-prep)
 
+[![CKAD-Vorbereitung](https://course-cover.labex.io/ckad-prep.png?lang=de)](https://labex.io/de/courses/ckad-prep)
+
 Ein einsteigerfreundlicher Vorbereitungskurs für die CKAD-Zertifizierung mit 42 geführten Kubernetes-Anwendungsentwicklungs-Experimenten, die von den Grundlagen zu kubectl und Objekten bis hin zu Workloads, Konfiguration, Deployment, Observability und Networking reichen.
 
 [Kurs Starten](https://labex.io/de/courses/ckad-prep) · Labs: 42
@@ -91,6 +93,8 @@ Ein einsteigerfreundlicher Vorbereitungskurs für die CKAD-Zertifizierung mit 42
 
 ### 2. [CKAD-Übungsprüfung 01](https://labex.io/de/courses/ckad-practice-exam-01)
 
+[![CKAD-Übungsprüfung 01](https://course-cover.labex.io/ckad-practice-exam-01.png?lang=de)](https://labex.io/de/courses/ckad-practice-exam-01)
+
 Eine praxisorientierte CKAD-Übungsprüfung mit 20 unabhängigen Herausforderungen zur Kubernetes-Anwendungsentwicklung. Die Themen umfassen Anwendungsdesign und -erstellung, Deployment, Observability und Wartung, Umgebungskonfiguration und Sicherheit sowie Services und Networking.
 
 [Kurs Starten](https://labex.io/de/courses/ckad-practice-exam-01) · Labs: 20
@@ -141,6 +145,8 @@ Eine praxisorientierte CKAD-Übungsprüfung mit 20 unabhängigen Herausforderung
 |       4 | 🎯  Fehlerbehebung beim Zugriff auf Service-Endpunkte | Anfänger        | [Challenge Starten](https://labex.io/de/labs/troubleshoot-service-endpoint-access-663110?course=ckad-practice-exam-01)    |
 
 ### 3. [CKAD-Übungsprüfung 02](https://labex.io/de/courses/ckad-practice-exam-02)
+
+[![CKAD-Übungsprüfung 02](https://course-cover.labex.io/ckad-practice-exam-02.png?lang=de)](https://labex.io/de/courses/ckad-practice-exam-02)
 
 Eine zweite, unabhängige Übungsprüfung im CKAD-Stil mit 20 Kubernetes-Anwendungsentwicklungs-Herausforderungen, die die offiziellen CKAD-Themenbereiche anhand verschiedener operativer Szenarien abdecken.
 
