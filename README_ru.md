@@ -18,6 +18,8 @@
 
 ### 1. [Подготовка к CKAD](https://labex.io/ru/courses/ckad-prep)
 
+[![Подготовка к CKAD](https://course-cover.labex.io/ckad-prep.png?lang=ru)](https://labex.io/ru/courses/ckad-prep)
+
 Курс по подготовке к сертификации CKAD для начинающих, включающий 42 практические лабораторные работы по разработке приложений в Kubernetes: от основ kubectl и объектов до рабочих нагрузок, конфигурации, развертывания, мониторинга и сетевого взаимодействия.
 
 [Начать Курс](https://labex.io/ru/courses/ckad-prep) · Лаборатории: 42
@@ -91,6 +93,8 @@
 
 ### 2. [Практический экзамен CKAD 01](https://labex.io/ru/courses/ckad-practice-exam-01)
 
+[![Практический экзамен CKAD 01](https://course-cover.labex.io/ckad-practice-exam-01.png?lang=ru)](https://labex.io/ru/courses/ckad-practice-exam-01)
+
 Практический экзамен CKAD, включающий 20 независимых задач по разработке приложений в Kubernetes. Темы охватывают проектирование и сборку приложений, развертывание, наблюдаемость и обслуживание, настройку окружения и безопасность, а также сервисы и сетевое взаимодействие.
 
 [Начать Курс](https://labex.io/ru/courses/ckad-practice-exam-01) · Лаборатории: 20
@@ -141,6 +145,8 @@
 |        4 | 🎯  Устранение неполадок доступа к конечным точкам сервиса | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/troubleshoot-service-endpoint-access-663110?course=ckad-practice-exam-01)    |
 
 ### 3. [Практический экзамен CKAD 02](https://labex.io/ru/courses/ckad-practice-exam-02)
+
+[![Практический экзамен CKAD 02](https://course-cover.labex.io/ckad-practice-exam-02.png?lang=ru)](https://labex.io/ru/courses/ckad-practice-exam-02)
 
 Второй независимый практический экзамен в стиле CKAD, включающий 20 задач по разработке приложений в Kubernetes, которые охватывают все ключевые области сертификации через различные рабочие сценарии.
 
