@@ -18,6 +18,8 @@ Prepare-se para o exame Certified Kubernetes Application Developer (CKAD) com um
 
 ### 1. [Preparatório para CKAD](https://labex.io/pt/courses/ckad-prep)
 
+[![Preparatório para CKAD](https://course-cover.labex.io/ckad-prep.png?lang=pt)](https://labex.io/pt/courses/ckad-prep)
+
 Um curso preparatório para a certificação CKAD voltado para iniciantes, com 42 experimentos guiados de desenvolvimento de aplicações Kubernetes, abrangendo desde os fundamentos de kubectl e objetos até cargas de trabalho, configuração, implantação, observabilidade e rede.
 
 [Iniciar Curso](https://labex.io/pt/courses/ckad-prep) · Labs: 42
@@ -91,6 +93,8 @@ Um curso preparatório para a certificação CKAD voltado para iniciantes, com 4
 
 ### 2. [Exame Prático CKAD 01](https://labex.io/pt/courses/ckad-practice-exam-01)
 
+[![Exame Prático CKAD 01](https://course-cover.labex.io/ckad-practice-exam-01.png?lang=pt)](https://labex.io/pt/courses/ckad-practice-exam-01)
+
 Um exame prático e prático de CKAD com 20 desafios independentes de desenvolvimento de aplicações Kubernetes, abrangendo design e construção de aplicações, implantação, observabilidade e manutenção, configuração e segurança de ambiente, além de serviços e redes.
 
 [Iniciar Curso](https://labex.io/pt/courses/ckad-practice-exam-01) · Labs: 20
@@ -141,6 +145,8 @@ Um exame prático e prático de CKAD com 20 desafios independentes de desenvolvi
 |        4 | 🎯  Solucionar problemas de acesso ao endpoint do serviço | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/troubleshoot-service-endpoint-access-663110?course=ckad-practice-exam-01)    |
 
 ### 3. [Exame Prático CKAD 02](https://labex.io/pt/courses/ckad-practice-exam-02)
+
+[![Exame Prático CKAD 02](https://course-cover.labex.io/ckad-practice-exam-02.png?lang=pt)](https://labex.io/pt/courses/ckad-practice-exam-02)
 
 Um segundo exame prático independente no estilo CKAD, contendo 20 desafios de desenvolvimento de aplicações Kubernetes que abrangem os domínios públicos do CKAD por meio de diferentes cenários operacionais.
 
