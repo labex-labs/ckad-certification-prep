@@ -18,6 +18,8 @@ Prepare for the Certified Kubernetes Application Developer (CKAD) exam with a st
 
 ### 1. [CKAD Prep](https://labex.io/courses/ckad-prep)
 
+[![CKAD Prep](https://course-cover.labex.io/ckad-prep.png)](https://labex.io/courses/ckad-prep)
+
 A beginner-friendly CKAD preparation course with 42 guided Kubernetes application development labs arranged from kubectl and object fundamentals to workloads, configuration, deployment, observability, and networking.
 
 [Start Course](https://labex.io/courses/ckad-prep) · Labs: 42
@@ -91,6 +93,8 @@ A beginner-friendly CKAD preparation course with 42 guided Kubernetes applicatio
 
 ### 2. [CKAD Practice Exam 01](https://labex.io/courses/ckad-practice-exam-01)
 
+[![CKAD Practice Exam 01](https://course-cover.labex.io/ckad-practice-exam-01.png)](https://labex.io/courses/ckad-practice-exam-01)
+
 A hands-on CKAD practice exam with 20 independent Kubernetes application development challenges covering application design and build, deployment, observability and maintenance, environment configuration and security, and services and networking.
 
 [Start Course](https://labex.io/courses/ckad-practice-exam-01) · Labs: 20
@@ -141,6 +145,8 @@ A hands-on CKAD practice exam with 20 independent Kubernetes application develop
 |       4 | 🎯  Troubleshoot Service Endpoint Access    | Beginner     | [Start Challenge](https://labex.io/labs/troubleshoot-service-endpoint-access-663110?course=ckad-practice-exam-01)    |
 
 ### 3. [CKAD Practice Exam 02](https://labex.io/courses/ckad-practice-exam-02)
+
+[![CKAD Practice Exam 02](https://course-cover.labex.io/ckad-practice-exam-02.png)](https://labex.io/courses/ckad-practice-exam-02)
 
 A second independent CKAD-style practice exam with 20 Kubernetes application development challenges covering the public CKAD domains through different operational scenarios.
 
