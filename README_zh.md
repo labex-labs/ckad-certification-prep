@@ -1,8 +1,8 @@
-# CKAD 培训 认证备考路径
+# CKAD 培训 Certification Prep Path
 
 ## 支持语言
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇺🇸 [English](README.md) 🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 
 
 <div align="center">
 <a href="https://labex.io/zh/learn/ckad"><img width="128px" src="https://file.labex.io/path/izmE8twViI3a.png"></a>
@@ -22,7 +22,7 @@
 
 [开始课程](https://labex.io/zh/courses/ckad-prep) · 实验: 42
 
-#### Kubernetes Application Foundations
+#### Kubernetes 应用基础
 
 |   序号 | 名称                      | 难度   | 练习                                                                                                |
 |------|-------------------------|------|---------------------------------------------------------------------------------------------------|
@@ -33,7 +33,7 @@
 |    5 | 🧩  使用标签与选择器             | 初级   | [开始实验](https://labex.io/zh/labs/use-labels-and-selectors-663626?course=ckad-prep)                 |
 |    6 | 🧩  使用 kubectl 生成和编辑清单   | 初级   | [开始实验](https://labex.io/zh/labs/generate-and-edit-manifests-with-kubectl-663604?course=ckad-prep) |
 
-#### Workload Design and Build
+#### 工作负载设计与构建
 
 |   序号 | 名称                           | 难度   | 练习                                                                                                    |
 |------|------------------------------|------|-------------------------------------------------------------------------------------------------------|
@@ -46,7 +46,7 @@
 |    7 | 🧩  添加 Sidecar 容器             | 初级   | [开始实验](https://labex.io/zh/labs/add-a-sidecar-container-663588?course=ckad-prep)                      |
 |    8 | 🧩  在 Pod 中使用临时卷和持久卷          | 初级   | [开始实验](https://labex.io/zh/labs/use-ephemeral-and-persistent-volumes-in-pods-663624?course=ckad-prep) |
 
-#### Configuration, Storage, and Runtime Settings
+#### 配置、存储与运行时设置
 
 |   序号 | 名称                           | 难度   | 练习                                                                                              |
 |------|------------------------------|------|-------------------------------------------------------------------------------------------------|
@@ -61,7 +61,7 @@
 |   09 | 🧩  加固 Pod 安全上下文              | 初级   | [开始实验](https://labex.io/zh/labs/harden-a-pod-security-context-663605?course=ckad-prep)          |
 |   10 | 🧩  发现并使用自定义资源                | 初级   | [开始实验](https://labex.io/zh/labs/discover-and-use-custom-resources-663602?course=ckad-prep)      |
 
-#### Deployment and Packaging
+#### 部署与打包
 
 |   序号 | 名称                      | 难度   | 练习                                                                                               |
 |------|-------------------------|------|--------------------------------------------------------------------------------------------------|
@@ -74,7 +74,7 @@
 |    7 | 🧩  使用 Kustomize 自定义应用程序 | 初级   | [开始实验](https://labex.io/zh/labs/customize-an-application-with-kustomize-663598?course=ckad-prep) |
 |    8 | 🧩  构建并运行本地应用程序镜像        | 初级   | [开始实验](https://labex.io/zh/labs/build-and-run-a-local-application-image-663591?course=ckad-prep) |
 
-#### Observability, Debugging, and App Networking
+#### 可观测性、调试与应用网络
 
 |   序号 | 名称                          | 难度   | 练习                                                                                                       |
 |------|-----------------------------|------|----------------------------------------------------------------------------------------------------------|
@@ -95,7 +95,7 @@
 
 [开始课程](https://labex.io/zh/courses/ckad-practice-exam-01) · 实验: 20
 
-#### Application Design and Build
+#### 应用设计与构建
 
 |   序号 | 名称                      | 难度   | 练习                                                                                                           |
 |------|-------------------------|------|--------------------------------------------------------------------------------------------------------------|
@@ -104,7 +104,7 @@
 |    3 | 🎯  添加 Init 和 Sidecar 容器 | 初级   | [开始挑战](https://labex.io/zh/labs/add-init-and-sidecar-containers-663093?course=ckad-practice-exam-01)         |
 |    4 | 🎯  使用临时卷和持久卷            | 初级   | [开始挑战](https://labex.io/zh/labs/use-ephemeral-and-persistent-volumes-663112?course=ckad-practice-exam-01)    |
 
-#### Application Deployment
+#### 应用部署
 
 |   序号 | 名称                    | 难度   | 练习                                                                                                    |
 |------|-----------------------|------|-------------------------------------------------------------------------------------------------------|
@@ -113,7 +113,7 @@
 |    3 | 🎯  部署分阶段的 Helm 应用     | 初级   | [开始挑战](https://labex.io/zh/labs/deploy-a-staged-helm-application-663101?course=ckad-practice-exam-01) |
 |    4 | 🎯  使用 Kustomize 自定义应用 | 初级   | [开始挑战](https://labex.io/zh/labs/customize-an-app-with-kustomize-663099?course=ckad-practice-exam-01)  |
 
-#### Application Observability and Maintenance
+#### 应用可观测性与维护
 
 |   序号 | 名称                    | 难度   | 练习                                                                                                    |
 |------|-----------------------|------|-------------------------------------------------------------------------------------------------------|
@@ -121,7 +121,7 @@
 |    2 | 🎯  调试 CrashLooping 应用 | 初级   | [开始挑战](https://labex.io/zh/labs/debug-a-crashlooping-application-663100?course=ckad-practice-exam-01) |
 |    3 | 🎯  更新已弃用的清单           | 初级   | [开始挑战](https://labex.io/zh/labs/update-deprecated-manifests-663111?course=ckad-practice-exam-01)      |
 
-#### Application Environment, Configuration and Security
+#### 应用环境、配置与安全
 
 |   序号 | 名称                        | 难度   | 练习                                                                                                       |
 |------|---------------------------|------|----------------------------------------------------------------------------------------------------------|
@@ -131,7 +131,7 @@
 |    4 | 🎯  加固 Pod 安全上下文           | 初级   | [开始挑战](https://labex.io/zh/labs/harden-a-pod-security-context-663103?course=ckad-practice-exam-01)       |
 |    5 | 🎯  创建应用自定义资源              | 初级   | [开始挑战](https://labex.io/zh/labs/create-an-app-custom-resource-663097?course=ckad-practice-exam-01)       |
 
-#### Services and Networking
+#### 服务与网络
 
 |   序号 | 名称                          | 难度   | 练习                                                                                                           |
 |------|-----------------------------|------|--------------------------------------------------------------------------------------------------------------|
@@ -146,7 +146,7 @@
 
 [开始课程](https://labex.io/zh/courses/ckad-practice-exam-02) · 实验: 20
 
-#### Application Design and Build
+#### 应用设计与构建
 
 |   序号 | 名称                | 难度   | 练习                                                                                                       |
 |------|-------------------|------|----------------------------------------------------------------------------------------------------------|
@@ -155,7 +155,7 @@
 |    3 | 🎯  添加适配器 Sidecar  | 初级   | [开始挑战](https://labex.io/zh/labs/add-an-adapter-sidecar-663113?course=ckad-practice-exam-02)              |
 |    4 | 🎯  挂载投影卷与持久化数据    | 初级   | [开始挑战](https://labex.io/zh/labs/mount-projected-and-persistent-data-663122?course=ckad-practice-exam-02) |
 
-#### Application Deployment
+#### 应用部署
 
 |   序号 | 名称                           | 难度   | 练习                                                                                                           |
 |------|------------------------------|------|--------------------------------------------------------------------------------------------------------------|
@@ -164,7 +164,7 @@
 |    3 | 🎯  升级本地 Helm Release         | 初级   | [开始挑战](https://labex.io/zh/labs/upgrade-a-local-helm-release-663132?course=ckad-practice-exam-02)            |
 |    4 | 🎯  生成 Kustomize 生产环境 Overlay | 初级   | [开始挑战](https://labex.io/zh/labs/generate-a-kustomize-production-overlay-663120?course=ckad-practice-exam-02) |
 
-#### Application Observability and Maintenance
+#### 应用可观测性与维护
 
 |   序号 | 名称            | 难度   | 练习                                                                                                        |
 |------|---------------|------|-----------------------------------------------------------------------------------------------------------|
@@ -172,7 +172,7 @@
 |    2 | 🎯  调试失败的配置发布  | 初级   | [开始挑战](https://labex.io/zh/labs/debug-a-failed-config-rollout-663117?course=ckad-practice-exam-02)        |
 |    3 | 🎯  转换已弃用的策略清单 | 初级   | [开始挑战](https://labex.io/zh/labs/convert-a-deprecated-policy-manifest-663115?course=ckad-practice-exam-02) |
 
-#### Application Environment, Configuration and Security
+#### 应用环境、配置与安全
 
 |   序号 | 名称                     | 难度   | 练习                                                                                                       |
 |------|------------------------|------|----------------------------------------------------------------------------------------------------------|
@@ -182,7 +182,7 @@
 |    4 | 🎯  保护可写缓存 Pod          | 初级   | [开始挑战](https://labex.io/zh/labs/secure-a-writable-cache-pod-663130?course=ckad-practice-exam-02)         |
 |    5 | 🎯  创建版本化的应用资源          | 初级   | [开始挑战](https://labex.io/zh/labs/create-a-versioned-app-resource-663116?course=ckad-practice-exam-02)     |
 
-#### Services and Networking
+#### 服务与网络
 
 |   序号 | 名称                     | 难度   | 练习                                                                                                     |
 |------|------------------------|------|--------------------------------------------------------------------------------------------------------|
