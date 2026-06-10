@@ -1,8 +1,8 @@
-# Formación CKAD Ruta de Preparación para Certificación
+# Formación CKAD Certification Prep Path
 
 ## Idiomas
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇺🇸 [English](README.md) 🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 
 
 <div align="center">
 <a href="https://labex.io/es/learn/ckad"><img width="128px" src="https://file.labex.io/path/izmE8twViI3a.png"></a>
@@ -12,7 +12,7 @@
 
 Prepárate para el examen Certified Kubernetes Application Developer (CKAD) con una ruta de aprendizaje estructurada y práctica. Este plan se centra en diseño y construcción de aplicaciones, despliegue, observabilidad y mantenimiento, configuración y seguridad, y servicios y redes en Kubernetes, tareas basadas en rendimiento al estilo CKAD y escenarios reales. Los cursos CKAD, laboratorios y exámenes simulados se irán incorporando para reforzar habilidades alineadas con los objetivos CKAD.
 
-**Cursos**: 3 · **Labs**: 82
+**Cursos**: 3 · **Laboratorios**: 82
 
 ## Cursos
 
@@ -20,9 +20,9 @@ Prepárate para el examen Certified Kubernetes Application Developer (CKAD) con 
 
 Un curso de preparación para CKAD ideal para principiantes, que incluye 42 experimentos guiados de desarrollo de aplicaciones en Kubernetes, organizados desde los fundamentos de kubectl y objetos hasta cargas de trabajo, configuración, despliegue, observabilidad y redes.
 
-[Iniciar Curso](https://labex.io/es/courses/ckad-prep) · Labs: 42
+[Iniciar Curso](https://labex.io/es/courses/ckad-prep) · Laboratorios: 42
 
-#### Kubernetes Application Foundations
+#### Fundamentos de aplicaciones en Kubernetes
 
 |   Índice | Nombre                                               | Dificultad   | Práctica                                                                                                         |
 |----------|------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------|
@@ -33,7 +33,7 @@ Un curso de preparación para CKAD ideal para principiantes, que incluye 42 expe
 |        5 | 🧩  Uso de etiquetas y selectores                     | Principiante | [Iniciar Laboratorio](https://labex.io/es/labs/use-labels-and-selectors-663626?course=ckad-prep)                 |
 |        6 | 🧩  Generar y editar manifiestos con kubectl          | Principiante | [Iniciar Laboratorio](https://labex.io/es/labs/generate-and-edit-manifests-with-kubectl-663604?course=ckad-prep) |
 
-#### Workload Design and Build
+#### Diseño y construcción de cargas de trabajo
 
 |   Índice | Nombre                                              | Dificultad   | Práctica                                                                                                             |
 |----------|-----------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
@@ -46,7 +46,7 @@ Un curso de preparación para CKAD ideal para principiantes, que incluye 42 expe
 |        7 | 🧩  Añadir un contenedor Sidecar                     | Principiante | [Iniciar Laboratorio](https://labex.io/es/labs/add-a-sidecar-container-663588?course=ckad-prep)                      |
 |        8 | 🧩  Uso de volúmenes efímeros y persistentes en Pods | Principiante | [Iniciar Laboratorio](https://labex.io/es/labs/use-ephemeral-and-persistent-volumes-in-pods-663624?course=ckad-prep) |
 
-#### Configuration, Storage, and Runtime Settings
+#### Configuración, almacenamiento y ajustes de tiempo de ejecución
 
 |   Índice | Nombre                                          | Dificultad   | Práctica                                                                                                       |
 |----------|-------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------|
@@ -61,7 +61,7 @@ Un curso de preparación para CKAD ideal para principiantes, que incluye 42 expe
 |       09 | 🧩  Endurecer un contexto de seguridad de Pod    | Principiante | [Iniciar Laboratorio](https://labex.io/es/labs/harden-a-pod-security-context-663605?course=ckad-prep)          |
 |       10 | 🧩  Descubrir y utilizar recursos personalizados | Principiante | [Iniciar Laboratorio](https://labex.io/es/labs/discover-and-use-custom-resources-663602?course=ckad-prep)      |
 
-#### Deployment and Packaging
+#### Despliegue y empaquetado
 
 |   Índice | Nombre                                                     | Dificultad   | Práctica                                                                                                        |
 |----------|------------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------|
@@ -74,7 +74,7 @@ Un curso de preparación para CKAD ideal para principiantes, que incluye 42 expe
 |        7 | 🧩  Personalizar una aplicación con Kustomize               | Principiante | [Iniciar Laboratorio](https://labex.io/es/labs/customize-an-application-with-kustomize-663598?course=ckad-prep) |
 |        8 | 🧩  Compilar y ejecutar una imagen de aplicación local      | Principiante | [Iniciar Laboratorio](https://labex.io/es/labs/build-and-run-a-local-application-image-663591?course=ckad-prep) |
 
-#### Observability, Debugging, and App Networking
+#### Observabilidad, depuración y redes de aplicaciones
 
 |   Índice | Nombre                                                         | Dificultad   | Práctica                                                                                                                |
 |----------|----------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
@@ -93,9 +93,9 @@ Un curso de preparación para CKAD ideal para principiantes, que incluye 42 expe
 
 Un examen de práctica práctico de CKAD con 20 desafíos independientes de desarrollo de aplicaciones en Kubernetes, que abarcan el diseño y la construcción de aplicaciones, despliegue, observabilidad y mantenimiento, configuración y seguridad del entorno, así como servicios y redes.
 
-[Iniciar Curso](https://labex.io/es/courses/ckad-practice-exam-01) · Labs: 20
+[Iniciar Curso](https://labex.io/es/courses/ckad-practice-exam-01) · Laboratorios: 20
 
-#### Application Design and Build
+#### Diseño y construcción de aplicaciones
 
 |   Índice | Nombre                                                 | Dificultad   | Práctica                                                                                                                |
 |----------|--------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
@@ -104,7 +104,7 @@ Un examen de práctica práctico de CKAD con 20 desafíos independientes de desa
 |        3 | 🎯  Añadir contenedores Init y Sidecar                  | Principiante | [Iniciar Desafío](https://labex.io/es/labs/add-init-and-sidecar-containers-663093?course=ckad-practice-exam-01)         |
 |        4 | 🎯  Uso de volúmenes efímeros y persistentes            | Principiante | [Iniciar Desafío](https://labex.io/es/labs/use-ephemeral-and-persistent-volumes-663112?course=ckad-practice-exam-01)    |
 
-#### Application Deployment
+#### Despliegue de aplicaciones
 
 |   Índice | Nombre                                        | Dificultad   | Práctica                                                                                                         |
 |----------|-----------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------|
@@ -113,7 +113,7 @@ Un examen de práctica práctico de CKAD con 20 desafíos independientes de desa
 |        3 | 🎯  Desplegar una aplicación de Helm preparada | Principiante | [Iniciar Desafío](https://labex.io/es/labs/deploy-a-staged-helm-application-663101?course=ckad-practice-exam-01) |
 |        4 | 🎯  Personalizar una aplicación con Kustomize  | Principiante | [Iniciar Desafío](https://labex.io/es/labs/customize-an-app-with-kustomize-663099?course=ckad-practice-exam-01)  |
 
-#### Application Observability and Maintenance
+#### Observabilidad y mantenimiento de aplicaciones
 
 |   Índice | Nombre                                 | Dificultad   | Práctica                                                                                                         |
 |----------|----------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------|
@@ -121,7 +121,7 @@ Un examen de práctica práctico de CKAD con 20 desafíos independientes de desa
 |        2 | 🎯  Depurar una aplicación en CrashLoop | Principiante | [Iniciar Desafío](https://labex.io/es/labs/debug-a-crashlooping-application-663100?course=ckad-practice-exam-01) |
 |        3 | 🎯  Actualizar manifiestos obsoletos    | Principiante | [Iniciar Desafío](https://labex.io/es/labs/update-deprecated-manifests-663111?course=ckad-practice-exam-01)      |
 
-#### Application Environment, Configuration and Security
+#### Entorno, configuración y seguridad de aplicaciones
 
 |   Índice | Nombre                                          | Dificultad   | Práctica                                                                                                            |
 |----------|-------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------|
@@ -131,7 +131,7 @@ Un examen de práctica práctico de CKAD con 20 desafíos independientes de desa
 |        4 | 🎯  Endurecer un contexto de seguridad de Pod    | Principiante | [Iniciar Desafío](https://labex.io/es/labs/harden-a-pod-security-context-663103?course=ckad-practice-exam-01)       |
 |        5 | 🎯  Crear un recurso personalizado de aplicación | Principiante | [Iniciar Desafío](https://labex.io/es/labs/create-an-app-custom-resource-663097?course=ckad-practice-exam-01)       |
 
-#### Services and Networking
+#### Servicios y redes
 
 |   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                |
 |----------|-------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
@@ -144,9 +144,9 @@ Un examen de práctica práctico de CKAD con 20 desafíos independientes de desa
 
 Un segundo examen de práctica independiente al estilo CKAD que incluye 20 desafíos de desarrollo de aplicaciones en Kubernetes, cubriendo los dominios públicos de la certificación CKAD a través de diversos escenarios operativos.
 
-[Iniciar Curso](https://labex.io/es/courses/ckad-practice-exam-02) · Labs: 20
+[Iniciar Curso](https://labex.io/es/courses/ckad-practice-exam-02) · Laboratorios: 20
 
-#### Application Design and Build
+#### Diseño y construcción de aplicaciones
 
 |   Índice | Nombre                                       | Dificultad   | Práctica                                                                                                            |
 |----------|----------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------|
@@ -155,7 +155,7 @@ Un segundo examen de práctica independiente al estilo CKAD que incluye 20 desaf
 |        3 | 🎯  Añadir un Sidecar Adaptador               | Principiante | [Iniciar Desafío](https://labex.io/es/labs/add-an-adapter-sidecar-663113?course=ckad-practice-exam-02)              |
 |        4 | 🎯  Montar datos proyectados y persistentes   | Principiante | [Iniciar Desafío](https://labex.io/es/labs/mount-projected-and-persistent-data-663122?course=ckad-practice-exam-02) |
 
-#### Application Deployment
+#### Despliegue de aplicaciones
 
 |   Índice | Nombre                                                                     | Dificultad   | Práctica                                                                                                                |
 |----------|----------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
@@ -164,7 +164,7 @@ Un segundo examen de práctica independiente al estilo CKAD que incluye 20 desaf
 |        3 | 🎯  Actualizar una versión de Helm local                                    | Principiante | [Iniciar Desafío](https://labex.io/es/labs/upgrade-a-local-helm-release-663132?course=ckad-practice-exam-02)            |
 |        4 | 🎯  Generar una capa de superposición (overlay) de producción con Kustomize | Principiante | [Iniciar Desafío](https://labex.io/es/labs/generate-a-kustomize-production-overlay-663120?course=ckad-practice-exam-02) |
 
-#### Application Observability and Maintenance
+#### Observabilidad y mantenimiento de aplicaciones
 
 |   Índice | Nombre                                            | Dificultad   | Práctica                                                                                                             |
 |----------|---------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
@@ -172,7 +172,7 @@ Un segundo examen de práctica independiente al estilo CKAD que incluye 20 desaf
 |        2 | 🎯  Depurar un despliegue de configuración fallido | Principiante | [Iniciar Desafío](https://labex.io/es/labs/debug-a-failed-config-rollout-663117?course=ckad-practice-exam-02)        |
 |        3 | 🎯  Convertir un manifiesto de política obsoleto   | Principiante | [Iniciar Desafío](https://labex.io/es/labs/convert-a-deprecated-policy-manifest-663115?course=ckad-practice-exam-02) |
 
-#### Application Environment, Configuration and Security
+#### Entorno, configuración y seguridad de aplicaciones
 
 |   Índice | Nombre                                                         | Dificultad   | Práctica                                                                                                            |
 |----------|----------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------|
@@ -182,7 +182,7 @@ Un segundo examen de práctica independiente al estilo CKAD que incluye 20 desaf
 |        4 | 🎯  Proteger un Pod de caché grabable                           | Principiante | [Iniciar Desafío](https://labex.io/es/labs/secure-a-writable-cache-pod-663130?course=ckad-practice-exam-02)         |
 |        5 | 🎯  Crear un recurso de aplicación versionado                   | Principiante | [Iniciar Desafío](https://labex.io/es/labs/create-a-versioned-app-resource-663116?course=ckad-practice-exam-02)     |
 
-#### Services and Networking
+#### Servicios y redes
 
 |   Índice | Nombre                                                         | Dificultad   | Práctica                                                                                                          |
 |----------|----------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------|
