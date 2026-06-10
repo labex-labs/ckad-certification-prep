@@ -18,6 +18,8 @@ Préparez-vous à l'examen Certified Kubernetes Application Developer (CKAD) gr�
 
 ### 1. [Préparation à la certification CKAD](https://labex.io/fr/courses/ckad-prep)
 
+[![Préparation à la certification CKAD](https://course-cover.labex.io/ckad-prep.png?lang=fr)](https://labex.io/fr/courses/ckad-prep)
+
 Un cours de préparation à la certification CKAD adapté aux débutants, comprenant 42 travaux pratiques guidés sur le développement d'applications Kubernetes, allant des bases de kubectl et des objets aux charges de travail, à la configuration, au déploiement, à l'observabilité et au réseau.
 
 [Commencer le Cours](https://labex.io/fr/courses/ckad-prep) · Labs: 42
@@ -91,6 +93,8 @@ Un cours de préparation à la certification CKAD adapté aux débutants, compre
 
 ### 2. [Examen blanc CKAD 01](https://labex.io/fr/courses/ckad-practice-exam-01)
 
+[![Examen blanc CKAD 01](https://course-cover.labex.io/ckad-practice-exam-01.png?lang=fr)](https://labex.io/fr/courses/ckad-practice-exam-01)
+
 Un examen blanc pratique pour la certification CKAD composé de 20 défis indépendants sur le développement d'applications Kubernetes, couvrant la conception et la construction d'applications, le déploiement, l'observabilité et la maintenance, la configuration et la sécurité de l'environnement, ainsi que les services et la mise en réseau.
 
 [Commencer le Cours](https://labex.io/fr/courses/ckad-practice-exam-01) · Labs: 20
@@ -141,6 +145,8 @@ Un examen blanc pratique pour la certification CKAD composé de 20 défis indép
 |       4 | 🎯  Dépanner l'accès aux points de terminaison (Endpoint) d'un Service | Débutant     | [Commencer le Défi](https://labex.io/fr/labs/troubleshoot-service-endpoint-access-663110?course=ckad-practice-exam-01)    |
 
 ### 3. [Examen blanc CKAD 02](https://labex.io/fr/courses/ckad-practice-exam-02)
+
+[![Examen blanc CKAD 02](https://course-cover.labex.io/ckad-practice-exam-02.png?lang=fr)](https://labex.io/fr/courses/ckad-practice-exam-02)
 
 Un second examen blanc indépendant de type CKAD, composé de 20 défis de développement d'applications Kubernetes couvrant les domaines officiels de la certification CKAD à travers divers scénarios opérationnels.
 
