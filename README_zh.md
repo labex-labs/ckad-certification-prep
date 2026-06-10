@@ -18,6 +18,8 @@
 
 ### 1. [CKAD 备考指南](https://labex.io/zh/courses/ckad-prep)
 
+[![CKAD 备考指南](https://course-cover.labex.io/ckad-prep.png?lang=zh)](https://labex.io/zh/courses/ckad-prep)
+
 这是一门面向初学者的 CKAD 备考课程，包含 42 个引导式 Kubernetes 应用开发实验。内容涵盖从 kubectl 和对象基础，到工作负载、配置、部署、可观测性及网络等核心知识点。
 
 [开始课程](https://labex.io/zh/courses/ckad-prep) · 实验: 42
@@ -91,6 +93,8 @@
 
 ### 2. [CKAD 模拟考试 01](https://labex.io/zh/courses/ckad-practice-exam-01)
 
+[![CKAD 模拟考试 01](https://course-cover.labex.io/ckad-practice-exam-01.png?lang=zh)](https://labex.io/zh/courses/ckad-practice-exam-01)
+
 这是一场实战型 CKAD 模拟考试，包含 20 个独立的 Kubernetes 应用开发挑战，涵盖应用设计与构建、部署、可观测性与维护、环境配置与安全，以及服务与网络等核心领域。
 
 [开始课程](https://labex.io/zh/courses/ckad-practice-exam-01) · 实验: 20
@@ -141,6 +145,8 @@
 |    4 | 🎯  排查服务端点访问问题               | 初级   | [开始挑战](https://labex.io/zh/labs/troubleshoot-service-endpoint-access-663110?course=ckad-practice-exam-01)    |
 
 ### 3. [CKAD 模拟考试 02](https://labex.io/zh/courses/ckad-practice-exam-02)
+
+[![CKAD 模拟考试 02](https://course-cover.labex.io/ckad-practice-exam-02.png?lang=zh)](https://labex.io/zh/courses/ckad-practice-exam-02)
 
 这是第二套独立的 CKAD 风格模拟考试，包含 20 个 Kubernetes 应用开发挑战，涵盖了 CKAD 认证考试大纲中涉及的各类实际操作场景。
 
